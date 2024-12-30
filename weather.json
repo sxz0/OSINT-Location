@@ -1,0 +1,132 @@
+{
+    "queryCost": 1,
+    "latitude": 38.263375,
+    "longitude": -0.737125,
+    "resolvedAddress": "38.263375,-0.737125",
+    "address": "38.263375,-0.737125",
+    "timezone": "Europe/Madrid",
+    "tzoffset": 2.0,
+    "days": [
+        {
+            "datetime": "2022-10-05",
+            "datetimeEpoch": 1664920800,
+            "tempmax": 26.0,
+            "tempmin": 19.1,
+            "temp": 22.0,
+            "feelslikemax": 26.0,
+            "feelslikemin": 19.1,
+            "feelslike": 22.0,
+            "dew": 18.0,
+            "humidity": 78.7,
+            "precip": 0.4,
+            "precipprob": 100.0,
+            "precipcover": 16.67,
+            "preciptype": [
+                "rain"
+            ],
+            "snow": 0.0,
+            "snowdepth": 0.0,
+            "windgust": 29.9,
+            "windspeed": 18.0,
+            "winddir": 190.2,
+            "pressure": 1022.2,
+            "cloudcover": 41.1,
+            "visibility": 12.6,
+            "solarradiation": 173.4,
+            "solarenergy": 15.1,
+            "uvindex": 6.0,
+            "severerisk": 10.0,
+            "sunrise": "08:02:08",
+            "sunriseEpoch": 1664949728,
+            "sunset": "19:40:05",
+            "sunsetEpoch": 1664991605,
+            "moonphase": 0.39,
+            "conditions": "Rain, Partially cloudy",
+            "description": "Partly cloudy throughout the day with rain.",
+            "icon": "rain",
+            "stations": [
+                "F8678",
+                "LELC",
+                "LERI",
+                "LEAL"
+            ],
+            "source": "comb"
+        }
+    ],
+    "stations": {
+        "F8678": {
+            "distance": 2797.0,
+            "latitude": 38.277,
+            "longitude": -0.71,
+            "useCount": 0,
+            "id": "F8678",
+            "name": "FW8678 Elx ES",
+            "quality": 0,
+            "contribution": 0.0
+        },
+        "LELC": {
+            "distance": 54091.0,
+            "latitude": 37.78,
+            "longitude": -0.8,
+            "useCount": 0,
+            "id": "LELC",
+            "name": "LELC",
+            "quality": 50,
+            "contribution": 0.0
+        },
+        "LERI": {
+            "distance": 55505.0,
+            "latitude": 37.95,
+            "longitude": -1.23,
+            "useCount": 0,
+            "id": "LERI",
+            "name": "LERI",
+            "quality": 27,
+            "contribution": 0.0
+        },
+        "LEAL": {
+            "distance": 16458.0,
+            "latitude": 38.28,
+            "longitude": -0.55,
+            "useCount": 0,
+            "id": "LEAL",
+            "name": "LEAL",
+            "quality": 50,
+            "contribution": 0.0
+        }
+    },
+    "currentConditions": {
+        "datetime": "17:15:17",
+        "datetimeEpoch": 1664982917,
+        "temp": 25.0,
+        "feelslike": 25.0,
+        "humidity": 62.5,
+        "dew": 17.3,
+        "precip": 0.1,
+        "precipprob": null,
+        "snow": 0.0,
+        "snowdepth": 0.0,
+        "preciptype": null,
+        "windgust": null,
+        "windspeed": 16.1,
+        "winddir": 88.0,
+        "pressure": 1021.9,
+        "visibility": 10.0,
+        "cloudcover": 25.0,
+        "solarradiation": 448.0,
+        "solarenergy": 1.6,
+        "uvindex": 4.0,
+        "conditions": "Rain, Partially cloudy",
+        "icon": "rain",
+        "stations": [
+            "F8678",
+            "LELC",
+            "LEAL"
+        ],
+        "sunrise": "08:02:08",
+        "sunriseEpoch": 1664949728,
+        "sunset": "19:40:05",
+        "sunsetEpoch": 1664991605,
+        "moonphase": 0.39
+    }
+}
